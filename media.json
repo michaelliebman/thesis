@@ -1,0 +1,21 @@
+{
+        "default": {
+            "container-title": {},
+            "collection-title": {},
+            "institution-entire": {},
+            "institution-part": {
+				"Society of Motion Picture and Television Engineers": "SMPTE",
+				"Society of Cable Telecommunications Engineers": "SCTE",
+				"Bureau of Labor Statistics": "BLS",
+				"Standard Occupational Classification Policy Committee": "SOCPC"
+			},
+            "nickname": {},
+            "number": {},
+            "title": {},
+            "place": {},
+            "hereinafter": {},
+            "classic": {},
+            "container-phrase": {},
+            "title-phrase": {}
+        }
+}
